@@ -1,0 +1,26 @@
+Skills: major 
+Mlee
+-sub
+one-handed
+two-handed 
+brawl
+
+ranged
+mechanical
+non-mechanical
+
+speach
+barter
+deseption
+charm
+
+deefence
+heavy
+med
+light
+none
+
+magic
+conjor
+destruction
+heal 
