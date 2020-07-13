@@ -322,7 +322,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Day: {fileID: 131550239}
   Month: {fileID: 1923353518}
-  springcycletime: 35
+  springcycletime: 5
   summercycletime: 40
   wintercycletime: 30
   Sun: {fileID: 252094880}

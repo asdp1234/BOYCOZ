@@ -1,15 +1,15 @@
 Skills: major 
-Mlee
+Melee
 -sub
 one-handed
 two-handed 
 brawl
 
-ranged
+Ranged
 mechanical
 non-mechanical
 
-speach
+Talk
 barter
 deseption
 charm
@@ -18,9 +18,15 @@ deefence
 heavy
 med
 light
-none
+block
+unarmored
 
 magic
 conjor
 destruction
-heal 
+Restorastion
+
+Movement
+Sneak
+Cilmb
+ 
