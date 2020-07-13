@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Melee : MajorSkills
+public class Ranged : MajorSkills
 {
     // Start is called before the first frame update
     void Start()
